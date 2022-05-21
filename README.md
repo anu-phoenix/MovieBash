@@ -2,7 +2,11 @@
 
 ## Intro
 
-It is a **Movie Recommender System** works on Content-Based recommendation technique.
+It is a **Movie Recommender System** works on Content-Based filtering technique.
+
+## Problem Statement
+
+I aim to build a recommendation system for movies. Now a times in the world of hectic schedule people need time relax, watch movies but then they try to search for their choices, the movies they like but how about giving them the movies which they like on their tips. So thats my motive to make their time completely relaxed. I will be using content based filtering technique and will recommend on the basis directors, genres, cast and much more.
 
 ## HLD
 
