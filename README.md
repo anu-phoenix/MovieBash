@@ -7,12 +7,12 @@ It is a **Movie Recommender System** works on Content-Based recommendation techn
 ## HLD
 
 -   The high level design of website.
--   [Link](/docs/HLD.pdf) to HLD.
+-   [Link](/Docs/HLD.pdf) to HLD.
 
 ## LLD
 
 -   The low level design of website.
--   [Link](/docs/LLD.pdf) to LLD.
+-   [Link](/Docs/LLD.pdf) to LLD.
 
 ## Modules Used
 
